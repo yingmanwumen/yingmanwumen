@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 
 <div>
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yingmanwumen">
+<!----
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen">
+----!>
 </div>
