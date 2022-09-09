@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
 ![Yingmanwumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingmanwumen)
+![Yingmanwumen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen)
