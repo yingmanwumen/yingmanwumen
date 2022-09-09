@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust(preparing for postgraduate entrance examination)
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
-![Yingmanwumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingmanwumen)
-![Yingmanwumen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen)
+<div>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=yingmanwumen">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen">
+</div>
