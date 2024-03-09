@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently in BUPT
-- 🌱 I’m currently learning Rust(preparing for postgraduate entrance examination)
+- 🔭 I’m currently working as a Linux R&D Engineer.
+- 🌱 I’m currently learning compiling.
+- 🤔 I'm interested in Rust, programe language theory.
+- ⚡ I want to change remote jobs.
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
 <div>
