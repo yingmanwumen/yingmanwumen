@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - ⚡ I am seeking remote/oversea jobs.
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
-<div>
+<div align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yingmanwumen">
 <!----
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen">
 ----!>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen&layout=compact&langs_count=6"/>
+  
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yingmanwumen&bg_color=ffffff&color=000000&line=62a0ea&point=1a5fb4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
