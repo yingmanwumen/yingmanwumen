@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!----
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen">
 ----!>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen&layout=compact&langs_count=6"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingmanwumen"/>
   
 </div>
 
