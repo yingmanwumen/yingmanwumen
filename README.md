@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Linux R&D Engineer.
 - 🌱 I’m currently learning compiling.
 - 🤔 I'm interested in Rust, programe language theory.
-- ⚡ I am seeking remote/oversea jobs.
+- ⚡ ***I am seeking remote/oversea JOBS***. Also open to on-site JOBS!!!
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
 <div align="center">
