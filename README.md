@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Linux R&D Engineer.
+- 🔭 I’m currently working as a Rust R&D Engineer.
 - 🌱 I’m currently learning compiling.
 - 🤔 I'm interested in Rust, programe language theory.
-- ⚡ ***I am seeking remote/oversea JOBS***. Also open to on-site JOBS!!!
 - 📫 How to reach me: yingmanwumen@foxmail.com
 
 <div align="center">
